@@ -1,0 +1,27 @@
+---
+layout: page
+title: Publications
+---
+- Near-Field Photometry for Organic Light Emitting Diodes, Rui Li, Krishnan Harikumar, Alexander Isphording, Venkat Venkataramanan, *Proc. SPIE* 8641, Light-Emitting Diodes: Materials, Devices, and Applications for Solid State Lighting XVII, 86410A, doi:10.1117/12.2002110.
+-  Maskless lithography using silicon oxide etch-stop layer induced by megahertz repetition femtosecond laser pulses, Amirkianoosh Kiani, Krishnan Venkatakrishnan, Bo Tan, and Venkat Venkataramanan, Opt. Express **19**, p10834.
+- Study of silicon nanofibrous structure formed by femtosecond laser irradiation in air, Sivakumar Manickam, Krishnan Venkatakrishnan, Bo Tan, and Venkat Venkataramanan, Opt. Express **17**, p13869.
+- Crystal growth and characterization of a new nonlinear optical material: Urea l-Malic Acid, V. K Dixit, S Vanishri, H. L Bhat, A Criado, Jun 2003, Journal of Crystal Growth, **253,** p460. 
+- A sensitive detection method for magnetization-induced second-harmonic generation under an externally applied field, V. Venkataramanan, K. Noguchi, M. Aono, T. Suzuki, Appl. Phys. B Lasers, **74**, p683.
+- Evidence of surface electron spin on Si (111)-7×7 revealed by nonlinear magneto optics, T. Suzuki, V. Venkataramanan and M. Aono, Jap. J. Appl. Phys. **40**, L1119.
+- Magnetic-Field-Induced Second-Harmonic Generation on Si(111)-7×7, Takanori Suzuki, V. Venkataramanan, Masakazu Aono, Jap. J. Appl. Phys. **40**, L1119.
+- Electronic structures of Si(1 1 1) in the 7×7↔“1×1” phase transition studied by surface second-harmonic generation, Takanori Suzuki, V Venkataramanan, Masakazu Aono, Appl. Surf. Sci. **169**, p206.
+- Synthesis, crystal growth and characterisation of a new nonlinear optical material - urea L-malic acid, E de Matos Gomes, V Venkataramanan, E Nogueira, [...], S Perez-Garrido, *Synthetic Metals,* **115**, p225. 
+- Nonlinear optical activity of anhydrous and hydrated sodium p-nitrophenolate, S Brahadeeswaran, V Venkataramanan, H.L Bhat, Sep 1999, Journal of Crystal Growth, **205**, p548.
+- Crystal growth and characterization of semiorganic nonlinear optical material: Sodium p-nitrophenolate dehydrate, S. Brahadeeswaran, V. Venkataramanan, J. N. Sherwood, H. L. Bhat, J. Mater. Chem. **8,** p613.
+- Vibrational Spectroscopic Study of the Semiorganic Nonlinear Optical Crystal Bis(thiourea) Cadmium Chloride, V Venkataramanan, H L Bhat, M R Srinivasan, M S Multani, , Journal of Raman Spectroscopy, **28**, p779. 
+- Crystal growth and physical characterization of the semiorganic bis (thiourea) cadmium chloride crystals, V. Venkataramanan, S. Maheswaran, J.N. Sherwood, H.L. Bhat, Aug 1997, Journal of Crystal Growth, **179**, p605.
+- Laser-induced damage in semiorganic nonlinear optical crystals, V. Venkataramanan, John N. Sherwood, H. L. Bhat, Jan 1997, Proceedings of SPIE - The International Society for Optical Engineering
+- Thermal properties of the nonlinear optical crystal zinc tris (thiourea) sulphate, P. Kerkoc, V. Venkataramanan, S. Lochran, R.T. Bailey, F.R. Cruickshank, F. R, D. Pugh,, Journal of Applied Physics, **80**,  p6666. 
+- Crystal growth and defects characterization of zinc tris (thiourea) sulfate: a novel metalorganic nonlinear optical crystal, V. Venkataramanan, G. Dhanaraj, V. K. Wadhawan, H. L. Bhat, Sep 1995, Journal of Crystal Growth, **154** , p92.
+- Laser induced damage in zinc tris(thiourea) sulfate and bis(thiourea) cadmium chloride, V. Venkataramanan, C. K. Subramanian, H. L. Bhat, J. Appl. Phys**. 17,**  p6039.
+- Physical characterization of the organic nonlinear optical crystal — 3-methoxy 4-hydroxy benzaldehyde, V Venkataramanan, Sanjay Uchil, H L Bhat, Nov 1994, Bulletin of Materials Science, **17**, p1109.
+- Vibrational spectroscopic study of zinc tris(thiourea) sulfate, a new organometallic nonlinear-optical crystal, V. Venkataramanan, M. R. Srinivasan, H. L. Bhat Oct 1994, Journal of Raman Spectroscopy, **25,**  p805.
+- Growth mechanism, dislocation etching and mechanical properties of L-arginine phosphate and deuterated L-arginine phosphate, V. Venkataramanan, G. Dhanaraj, H.L. Bhat, Jul 1994, Journal of Crystal Growth, **140,** p336.
+- Laser damage threshold studies in L-Arginine Phosphate Monohydrate, V. Venkataramanan, G. Dhanaraj, H. L. Bhat, Ferroelectrics, May 1994, 
+- The origin of blue-green window and the propagation of radiation in ocean waters, A T Reghunath, V. Venkataramanan, D. Victor Suviseshamuthu, Budihal Raghavendra Prasad, Defence science journal, *41*(1), 1-20 
+- Optical phase conjugation in pure and Fe doped LiNbO3, V. Venkataramanan, A T Reghunath, C.K. Subramanian, P. S. Narayanan, Jul 1990, Applications of Ferroelectrics, 1990.

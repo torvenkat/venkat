@@ -12,7 +12,9 @@ author: Venkat Venkataramann
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  Research: research
+  Research:
+    - Papers: "papers"
+    - Standards: "standards"
   Perspectives:
     - Posts: "blog"
     - Tags: "tags"
