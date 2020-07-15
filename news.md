@@ -68,11 +68,16 @@ Almost any white LED light you’ve ever seen was an optical ruse.
 
 That white bulb on a Christmas tree? It’s actually a shining blue diode with a touch of glowing yellow on its tip, says Venkat Venkataramanan, a University of Toronto physicist.
 
-
 # The Convergent Future of Lighting: Guangzhou International Lighting Exhibition
 Lighting Design and Specification, [Link](http://www.lightingdesignandspecification.ca/design/1863-the-convergent-future-of-lighting-guangzhou-international-lighting-exhibition)
 
 The LED industry is witnessing the convergence of different sectors and elements that revolve around human well-being in which lighting takes a lead role, fueled by the leapfrogging technological advances. 
+
+# International Year of Light radiates potential - Scientists foresee continued improvement in energy efficiency, quality and versatility
+
+By Barbara Carss, Building Strategies + Sustainability, July 7, 2015, [Link](https://www.reminetwork.com/articles/international-year-of-light-radiates-potential/)
+
+...We are only just scratching the surface now,” reports Venkat Venkataramanan, the director of scientific operations at University of Toronto’s Impact Centre and the president of the Canadian chapter of the International Commission on Illumination (CNC/CIE). “The way technology is being used is going to be drastically shifting in the coming years.”
 
 
 # Lighting brighter: 6 ways smart sustainable lighting transforms cities, health, business and the environment
