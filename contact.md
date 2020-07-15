@@ -6,7 +6,7 @@ subtitle: Get in touch with me
 
 ### Email
 
-torvare4@gmail.com
+venkat{at}lumentra{dot}com
 
 ### Address
 
