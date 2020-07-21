@@ -183,7 +183,7 @@ img {
 .navbar-custom .navbar-nav .nav-link:focus,
 .navbar-custom .navbar-nav .dropdown-item:hover,
 .navbar-custom .navbar-nav .dropdown-item:focus {
-  color: {{ site.hover-col | default: "#0085a1" }};
+  color: {{ site.hover-col | default: "#0085A1" }};
 }
 
 .navbar-custom .navbar-nav .nav-item {
@@ -281,17 +281,12 @@ img {
     text-align: center;
   }
 
-
   .navbar-custom .nav-item.dropdown .dropdown-menu .dropdown-item {
+
     color: #FF9900;
     padding-left: 0.625rem;
     border: 1px solid {{ site.navbar-border-col | default: "#EAEAEA" }};
     border-width: 0 1px 1px;
-  }
-
-
-  .dropdown-item:hover {
-    background-color: red;
   }
 }
 
@@ -582,7 +577,7 @@ footer .footer-custom-content {
   background-size: cover;
   -o-background-size: cover;
   margin-top: 3.1875rem; /* The small navbar is 50px tall + 1px border */
-  margin-bottom: 2.1875rem;
+  margin-bottom: -3rem;
   padding-top: 6rem;
   padding-bottom: 6rem;
 }

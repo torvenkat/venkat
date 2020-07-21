@@ -6,7 +6,7 @@ subtitle: Get in touch with me
 
 ### Email
 
-venkat{at}lumentra{dot}com
+mail{at}venkat{dot}ca
 
 ### Address
 
