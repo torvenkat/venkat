@@ -577,7 +577,7 @@ footer .footer-custom-content {
   background-size: cover;
   -o-background-size: cover;
   margin-top: 3.1875rem; /* The small navbar is 50px tall + 1px border */
-  margin-bottom: -3rem;
+  margin-bottom: 2.1875rem;
   padding-top: 6rem;
   padding-bottom: 6rem;
 }
