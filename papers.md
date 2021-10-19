@@ -10,7 +10,7 @@ title: Publications
 - Evidence of surface electron spin on Si (111)-7×7 revealed by nonlinear magneto optics, T. Suzuki, V. Venkataramanan and M. Aono, Jap. J. Appl. Phys. **40**, L1119.
 - Magnetic-Field-Induced Second-Harmonic Generation on Si(111)-7×7, Takanori Suzuki, V. Venkataramanan, Masakazu Aono, Jap. J. Appl. Phys. **40**, L1119.
 - Electronic structures of Si(1 1 1) in the 7×7↔“1×1” phase transition studied by surface second-harmonic generation, Takanori Suzuki, V Venkataramanan, Masakazu Aono, Appl. Surf. Sci. **169**, p206.
-- Synthesis, crystal growth and characterisation of a new nonlinear optical material - urea L-malic acid, E de Matos Gomes, V Venkataramanan, E Nogueira, [...], S Perez-Garrido, *Synthetic Metals,* **115**, p225. 
+- Synthesis, crystal growth and characterisation of a new nonlinear optical material - urea L-malic acid, E de Matos Gomes, V Venkataramanan, E Nogueira, S Perez-Garrido, *Synthetic Metals,* **115**, p225. 
 - Nonlinear optical activity of anhydrous and hydrated sodium p-nitrophenolate, S Brahadeeswaran, V Venkataramanan, H.L Bhat, Sep 1999, Journal of Crystal Growth, **205**, p548.
 - Crystal growth and characterization of semiorganic nonlinear optical material: Sodium p-nitrophenolate dehydrate, S. Brahadeeswaran, V. Venkataramanan, J. N. Sherwood, H. L. Bhat, J. Mater. Chem. **8,** p613.
 - Vibrational Spectroscopic Study of the Semiorganic Nonlinear Optical Crystal Bis(thiourea) Cadmium Chloride, V Venkataramanan, H L Bhat, M R Srinivasan, M S Multani, , Journal of Raman Spectroscopy, **28**, p779. 
