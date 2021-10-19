@@ -15,4 +15,4 @@ subtitle: Contribution to Technical Standards
 - ANSI/UL 8753, Field-Replaceable Light Emitting Light Engines, American National Standards and Underwriter Laboratories. 
 - CAN/ULC S8752 Ed. 1 AM1, Standard for Organic Light Emitting Diode (OLED) Panels, Canadian National Standards and Underwriter Laboratories. 
 - CAN/ULC S8754 Ed. 1, Standard for Holders, Bases, and Connectors for Solid-State (LED) Light Engines and Arrays, Canadian National Standards and Underwriter Laboratories.
-- UL 8800/ULC 8800 Horticultural Lighting Equipment and Systems, Underwriter Laboratories (under development).
+- UL 8800/ULC 8800, Horticultural Lighting Equipment and Systems, Underwriter Laboratories (under development).
